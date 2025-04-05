@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "buy groceries",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "buy medicines",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "title": "Buy milk",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Buy kinderjoy",
+    "completed": true
+  },
+  {
+    "id": 7,
+    "title": "Buy hello",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "title": "Buy hello",
+    "completed": false
+  }
+]
