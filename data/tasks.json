@@ -10,11 +10,6 @@
     "completed": true
   },
   {
-    "id": 4,
-    "title": "Buy milk",
-    "completed": false
-  },
-  {
     "id": 6,
     "title": "Buy kinderjoy",
     "completed": true
